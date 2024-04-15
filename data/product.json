@@ -1,0 +1,147 @@
+[
+    {
+      "name": "Glossy Gray 19' Aluminium Wheel AR-19",
+      "productid": "SKU: A43-44328-B",
+      "price": 589.00,
+      "review": "26 reviews",
+      "ratings": 4,
+      "images": [
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFY3fBjNLXIxfivPELafyeQnt4KPN6tbon7voieBzuYA&s"
+        }
+      ],
+      "category": "Tyres",
+      "stock": 5
+    },{
+      "name": "Twin Exhaust Pipe From Brandix Z54",
+      "productid": "SKU: 729-51203-B",
+      "price": 749.00,
+      "review": "9 reviews",
+      "ratings": 4,
+      "images": [
+        {
+          "image": "https://mlifemotorsports.com/wp-content/uploads/2021/01/product-5-2-600x600-1.jpg"
+        }
+      ],
+      "category": "Exhaust",
+      "stock": 13
+    },
+    {
+      "name": "Motor Oil Level 5",
+      "productid": "SKU: 573-49386-C",
+      "price": 23.00,
+      "review": "2 reviews",
+      "ratings": 9,
+      "images": [
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqJ7eJtHlrSrYzySA12Cvc6oqY7IAT5KaeGzBuPh060g&s"
+        }
+      ],
+      "category": "Mobile phones",
+      "stock": 5
+    },{
+      "name": "Brandix Engine Block Z4",
+      "productid": "SKU: 753-38573-B",
+      "price": 452.00,
+      "review": "0 reviews",
+      "ratings": 0,
+      "images": [
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqfluGciuMl60kCKRO-0Zz-p7mashhzF3lvJZE9Ls5Xw&s"
+        }
+      ],
+      "category": "Engine",
+      "stock": 7
+    },{
+      "name": "Brandix Clutch Discs Z175",
+      "productid": "SKU: 472-67382-Z",
+      "price": 345.00,
+      "review": "7 reviews",
+      "ratings": 3,
+      "images": [
+        {
+          "image": "https://autoparts5.aurobees.com/wp-content/uploads/2022/10/product-8-1-1-350x350.jpg"
+        }
+      ],
+      "category": "Clutch Disc",
+      "stock": 5
+    },{
+      "name": "Fantastic 12-Stroke Engine With A Power of 1991 hp",
+      "productid": "SKU: 472-67382-H",
+      "price": 2579.00,
+      "review": "17 reviews",
+      "ratings": 3,
+      "images": [
+        {
+          "image": "https://mlifemotorsports.com/wp-content/uploads/2021/01/product-13-1-1.jpg"
+        }
+      ],
+      "category": "Engine",
+      "stock": 23
+    },{
+      "name": "Brandix Manual Five Speed Gearbox",
+      "productid": "SKU: 472-67382-LP",
+      "price": 879.00,
+      "review": "27 reviews",
+      "ratings": 5,
+      "images": [
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQOo5PYCTE8uHJqt8pqeeoEhblPHX2oFWeBMLGUJTYNA&s"
+        }
+      ],
+      "category": "Engine",
+      "stock": 20
+    },{
+      "name": "Set of Four 19 Inch Spiked Tires",
+      "productid": "SKU: 472-67382-LPJ",
+      "price": 327.00,
+      "review": "9 reviews",
+      "ratings": 2,
+      "images": [
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBbAauQll72SmPnR0xCpHMRCSIWqgoxOryRsc-nDywoQ&s"
+        }
+      ],
+      "category": "Tyre",
+      "stock": 19
+    },{
+      "name": "Set of Car Floor Mats Brandix Z4",
+      "productid": "SKU: 472-67382-LKJ",
+      "price": 78.00,
+      "review": "16 reviews",
+      "ratings": 4,
+      "images": [
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA6SBx3Q1JzpSl-jsrqkBD1PHRbo9b54IeVnBM3_Z4fQ&s"
+        }
+      ],
+      "category": "Mat",
+      "stock": 9
+    },{
+      "name": "40 Megawatt Low Beam Lamp",
+      "productid": "SKU: 472-67382-KIT",
+      "price": 4.00,
+      "review": "31 reviews",
+      "ratings": 4,
+      "images": [
+        {
+          "image": "https://mlifemotorsports.com/wp-content/uploads/2021/01/product-15-2-600x600-1.jpgs"
+        }
+      ],
+      "category": "Light",
+      "stock": 43
+    },{
+      "name": "Taillights Brandix Z54",
+      "productid": "SKU: 472-67382-KPT",
+      "price": 60.00,
+      "review": "8 reviews",
+      "ratings": 2,
+      "images": [
+        {
+          "image": "https://mlifemotorsports.com/wp-content/uploads/2021/01/product-11-2-600x600-1.jpg"
+        }
+      ],
+      "category": "Light",
+      "stock": 45
+    }
+  ]
